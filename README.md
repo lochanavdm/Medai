@@ -1,17 +1,75 @@
-# medai
+# 🩺 MedAI – AI Powered Medical Assistant
 
-A new Flutter project.
+MedAI is a smart healthcare mobile application developed using **Flutter** and **Firebase**.  
+The app helps users understand medicines, analyze medical reports, chat with AI, and find nearby doctors.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+## 👤 User Profile
+- Save patient details
+- Age, blood group, allergies
+- Health conditions
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 💊 Medicine Scanner
+- Scan medicine labels using camera/gallery
+- OCR text extraction
+- AI medicine explanation
+- Dosage and warning details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 Medical Report Analyzer
+- Scan lab reports / prescriptions
+- AI-generated summaries
+- Findings, warnings, recommendations
+
+## 🤖 AI Chat Assistant
+- Ask health and medicine questions
+- Smart responses using AI integration
+
+## 🕘 History
+- Save previous scans
+- View medicine/report history
+- Delete records
+
+## 📍 Nearby Doctors
+- Current location detection
+- View nearby hospitals / clinics
+- Map integration
+
+---
+
+# 🛠 Technologies Used
+
+- Flutter
+- Dart
+- Firebase Firestore
+- OCR Text Recognition
+- AI API Integration
+- OpenStreetMap / Maps
+- Geolocation
+
+---
+
+# 🏗 Project Architecture
+
+User → Flutter App → Firebase Database → AI API → Results
+
+---
+
+# 🎯 Purpose of Project
+
+To create an affordable and accessible mobile healthcare assistant that helps users:
+
+- Understand medicines
+- Read reports
+- Get basic guidance
+- Find nearby care quickly
+
+---
+
+# 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
