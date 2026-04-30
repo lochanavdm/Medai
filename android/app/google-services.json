@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065113954497",
+    "project_id": "medai-bc7db",
+    "storage_bucket": "medai-bc7db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065113954497:android:c696819ab49dede3088c40",
+        "android_client_info": {
+          "package_name": "com.example.medai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd14ASf0Ki9zCCAq4cgbUi38fyAGr4Wi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
